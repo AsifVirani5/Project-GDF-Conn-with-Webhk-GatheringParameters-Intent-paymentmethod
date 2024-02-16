@@ -1,0 +1,10 @@
+flask
+openai
+jsonify
+requests
+uvicorn
+gunicorn
+python-dotenv
+random
+string
+autopep8
